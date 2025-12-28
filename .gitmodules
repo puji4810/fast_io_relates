@@ -1,0 +1,15 @@
+[submodule "fast_io"]
+	path = fast_io
+	url = https://github.com/fast_io/fast_io.git
+[submodule "third_party/fast_float"]
+	path = third_party/fast_float
+	url = https://github.com/fastfloat/fast_float
+[submodule "third_party/dragonbox"]
+	path = third_party/dragonbox
+	url = https://github.com/jk-jeon/dragonbox
+[submodule "third_party/teju_jagua"]
+	path = third_party/teju_jagua
+	url = https://github.com/cassioneri/teju_jagua
+[submodule "third_party/fmt"]
+	path = third_party/fmt
+	url = https://github.com/fmtlib/fmt.git
